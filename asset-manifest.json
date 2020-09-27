@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hachat/static/css/main.1c9e4056.chunk.css",
+    "main.js": "/hachat/static/js/main.5d082c8d.chunk.js",
+    "main.js.map": "/hachat/static/js/main.5d082c8d.chunk.js.map",
+    "runtime-main.js": "/hachat/static/js/runtime-main.a7586643.js",
+    "runtime-main.js.map": "/hachat/static/js/runtime-main.a7586643.js.map",
+    "static/js/2.04eeabc0.chunk.js": "/hachat/static/js/2.04eeabc0.chunk.js",
+    "static/js/2.04eeabc0.chunk.js.map": "/hachat/static/js/2.04eeabc0.chunk.js.map",
+    "index.html": "/hachat/index.html",
+    "precache-manifest.7e36945fda6c39f7df145622bf42812f.js": "/hachat/precache-manifest.7e36945fda6c39f7df145622bf42812f.js",
+    "service-worker.js": "/hachat/service-worker.js",
+    "static/css/main.1c9e4056.chunk.css.map": "/hachat/static/css/main.1c9e4056.chunk.css.map",
+    "static/js/2.04eeabc0.chunk.js.LICENSE.txt": "/hachat/static/js/2.04eeabc0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7586643.js",
+    "static/js/2.04eeabc0.chunk.js",
+    "static/css/main.1c9e4056.chunk.css",
+    "static/js/main.5d082c8d.chunk.js"
+  ]
+}
